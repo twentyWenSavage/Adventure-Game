@@ -22,7 +22,3 @@ As long as your program does all of the things listed in the instructions below,
 Wen - qli3work@gmail.com
 
 LinkedIn - www.linkedin.com/in/qianwen-li-job
-
-
-## References
-1. https://github.com/mcneel/rhino-python
